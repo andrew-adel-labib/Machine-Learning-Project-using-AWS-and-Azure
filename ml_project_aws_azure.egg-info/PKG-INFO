@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: ml-project-aws-azure
+Version: 0.1.0
+Summary: Add your description here
+Author: Andrew-Adel
+Author-email: andrewadellabib77@gmail.com
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: catboost>=1.2.8
+Requires-Dist: flask>=3.1.2
+Requires-Dist: matplotlib>=3.10.8
+Requires-Dist: numpy>=2.4.0
+Requires-Dist: pandas>=2.3.3
+Requires-Dist: scikit-learn>=1.8.0
+Requires-Dist: seaborn>=0.13.2
+Requires-Dist: xgboost>=3.1.2
+Dynamic: author
+Dynamic: author-email
